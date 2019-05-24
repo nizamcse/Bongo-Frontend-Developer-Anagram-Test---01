@@ -1,0 +1,25 @@
+{
+  "name": "bongo-frontend-developer-anagram-test",
+  "version": "1.0.0",
+  "description": "Anagram Testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack app.js --mode development --watch",
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "testing",
+    "jest",
+    "unit Test",
+    "Anagram Nizam@CseWinskit"
+  ],
+  "author": "MD NIZAM UDDIN",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
